@@ -1,16 +1,15 @@
-## Hi there 👋
+# Cycle Multi Tool
 
-<!--
-**cyclemultitool/CycleMultiTool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cycle Multi Tool is a local Windows desktop application for documentation, calculations, profiles, planning, and chart-based overview.
 
-Here are some ideas to get you started:
+This repository does not contain source code.  
+The compiled public release can be downloaded from the Releases section.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Important
+
+Cycle Multi Tool is not medical advice and is not a medical device.  
+It does not replace medical examination, lab interpretation, or treatment.
+
+## Download
+
+Use the latest release from the Releases page.
