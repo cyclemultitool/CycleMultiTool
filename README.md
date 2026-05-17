@@ -46,6 +46,18 @@ Dieses Repository veröffentlicht nur das fertige Programm als Download. Quellco
 
 Cycle Multi Tool ist kein medizinischer Rat und kein medizinisches Gerät. Es ersetzt keine medizinische Untersuchung, Laborinterpretation oder Behandlung. Alle Werte sind Dokumentations- und Plausibilitätswerte und müssen eigenverantwortlich geprüft werden.
 
+## Rechtlicher und medizinischer Hinweis
+
+Cycle Multi Tool dient ausschließlich der privaten Dokumentation, Berechnung, Plausibilitätsprüfung und übersichtlichen Darstellung eigener Daten.
+
+Das Programm gibt keine medizinischen Empfehlungen, keine Behandlungsanweisungen, keine Dosierungsempfehlungen und keine Anwendungsempfehlungen. Es fordert nicht zur Einnahme, Beschaffung oder Anwendung von verschreibungspflichtigen, verbotenen oder leistungssteigernden Substanzen auf.
+
+Alle Berechnungen, Diagramme, Schätzungen und Bewertungen sind technische Dokumentations- und Plausibilitätswerte. Sie ersetzen keine ärztliche Untersuchung, keine Laborinterpretation, keine Diagnose und keine Behandlung.
+
+Die Nutzung erfolgt eigenverantwortlich. Medizinische Fragen, Laborwerte, gesundheitliche Beschwerden und Entscheidungen über Medikamente oder Substanzen gehören in die Hände qualifizierter medizinischer Fachpersonen.
+
+Cycle Multi Tool speichert und verarbeitet Daten lokal auf dem eigenen Gerät. Die öffentliche Veröffentlichung enthält keinen Quellcode, keine Datenbanken, keine Backups und keine personenbezogenen Nutzerdaten.
+
 ## English
 
 Cycle Multi Tool is a local Windows desktop application for planning, documenting, and comparing personal data. It combines profiles, lab values, body and strength values, cycle planning, calculators, and charts in one place.
@@ -54,4 +66,14 @@ The current public version is available on the [Releases page](https://github.co
 
 This repository contains the public release package only. No source code, databases, backups, or personal data are included.
 
-Important: This software is not medical advice and is not a medical device. It does not replace medical examination, lab interpretation, or treatment.
+## Legal and Medical Notice
+
+Cycle Multi Tool is intended solely for private documentation, calculation, plausibility checking, and structured visualization of personal data.
+
+The program does not provide medical advice, treatment instructions, dosage recommendations, or usage recommendations. It does not encourage the use, purchase, acquisition, or application of prescription-only, prohibited, or performance-enhancing substances.
+
+All calculations, charts, estimates, and assessments are technical documentation and plausibility values only. They do not replace medical examination, laboratory interpretation, diagnosis, or treatment.
+
+Use of the software is at the user's own responsibility. Medical questions, lab values, health symptoms, and decisions about medication or substances should be handled by qualified medical professionals.
+
+Cycle Multi Tool stores and processes data locally on the user's own device. The public release does not include source code, databases, backups, or personal user data.
