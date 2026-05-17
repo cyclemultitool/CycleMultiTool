@@ -12,23 +12,23 @@ Die aktuelle öffentliche Version steht auf der Releases-Seite bereit:
 
 ### Persönliche Kurplanung
 
-<img src="screenshots/01_planning_light.png" alt="Cycle Multi Tool - Persönliche Kurplanung" width="900">
+<img src="01_planning_light.png" alt="Cycle Multi Tool - Persönliche Kurplanung" width="900">
 
 ### Kurplan und Verlauf
 
-<img src="screenshots/02_cycle_chart_dark.png" alt="Cycle Multi Tool - Kurplan und Verlauf" width="900">
+<img src="02_cycle_chart_dark.png" alt="Cycle Multi Tool - Kurplan und Verlauf" width="900">
 
 ### Rechner
 
-<img src="screenshots/03_calculators_light.png" alt="Cycle Multi Tool - Rechner" width="900">
+<img src="03_calculators_light.png" alt="Cycle Multi Tool - Rechner" width="900">
 
 ### Profile
 
-<img src="screenshots/04_profile_dark.png" alt="Cycle Multi Tool - Profile" width="900">
+<img src="04_profile_dark.png" alt="Cycle Multi Tool - Profile" width="900">
 
 ### Einstellungen
 
-<img src="screenshots/05_settings_dark.png" alt="Cycle Multi Tool - Einstellungen" width="900">
+<img src="05_settings_dark.png" alt="Cycle Multi Tool - Einstellungen" width="900">
 
 ## Inhalt der Veröffentlichung
 
