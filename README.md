@@ -20,7 +20,6 @@ Aktuelles Update: `1.0.1` als Win32-Paket mit KFA-Speicherung und Rechner-Erweit
 - Neuer ED-Rechner unter `Rechner`.
 - Der ED-Rechner berechnet `mg pro Injektion x 7 / Intervalltage = mg/Woche`.
 - Intervall-Auswahl von `ED1` bis `ED10`.
-- Der ED-Rechner ist als echte Formular-Komponente umgesetzt und kann im Designer verschoben werden.
 
 ## Screenshots
 
