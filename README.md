@@ -1,53 +1,47 @@
-# Cycle Multi Tool
-
+Cycle Multi Tool
 Cycle Multi Tool ist eine lokale Windows-Desktop-Anwendung zum Planen, Dokumentieren und Vergleichen eigener Daten. Das Programm sammelt Profile, Laborwerte, Körper- und Kraftwerte, Kurplanung, Rechner und Diagramme an einem Ort.
 
-## Download
-
+Download
 Die aktuelle öffentliche Version steht auf der Releases-Seite bereit:
 
-[Cycle Multi Tool 1.0 Final herunterladen](https://github.com/cyclemultitool/CycleMultiTool/releases/latest)
+Cycle Multi Tool herunterladen
 
-## Screenshots
+Aktuelles Update: 1.0.1 als Win32-Paket mit KFA-Speicherung und Rechner-Erweiterung.
 
-### Persönliche Kurplanung
-
+Update 1.0.1
+KFA-Rechner speichern ihre Eingaben jetzt vollständig.
+3-Falten-Methode: Alter, Brust, Bauch und Oberschenkel.
+6-Falten-Methode: Alter, Brust, Bauch, Oberschenkel, Rücken, Hüfte und Oberarm/Achsel.
+Navy-Methode: Größe, Hals und Bauch.
+BMI-Rechner: Größe und Gewicht.
+Neuer ED-Rechner unter Rechner.
+Der ED-Rechner berechnet mg pro Injektion x 7 / Intervalltage = mg/Woche.
+Intervall-Auswahl von ED1 bis ED10.
+Der ED-Rechner ist als echte Formular-Komponente umgesetzt und kann im Designer verschoben werden.
+Screenshots
+Persönliche Kurplanung
 <img src="01_planning_light.png" alt="Cycle Multi Tool - Persönliche Kurplanung" width="900">
-
-### Kurplan und Verlauf
-
+Kurplan und Verlauf
 <img src="02_cycle_chart_dark.png" alt="Cycle Multi Tool - Kurplan und Verlauf" width="900">
-
-### Rechner
-
+Rechner
 <img src="03_calculators_light.png" alt="Cycle Multi Tool - Rechner" width="900">
-
-### Profile
-
+Profile
 <img src="04_profile_dark.png" alt="Cycle Multi Tool - Profile" width="900">
-
-### Einstellungen
-
+Einstellungen
 <img src="05_settings_dark.png" alt="Cycle Multi Tool - Einstellungen" width="900">
-
-## Inhalt der Veröffentlichung
-
-- Windows-EXE
-- deutsche und englische README
-- deutsche und englische Haftungsausschlüsse
-- deutscher und englischer Datenschutzhinweis
-- deutscher und englischer Changelog
-
-## Kein Quellcode
-
+Inhalt der Veröffentlichung
+Windows-EXE
+deutsche und englische README
+deutsche und englische Haftungsausschlüsse
+deutscher und englischer Datenschutzhinweis
+deutscher und englischer Changelog
+Kein Quellcode
 Dieses Repository veröffentlicht nur das fertige Programm als Download. Quellcode, Datenbanken, Backups und personenbezogene Daten sind nicht enthalten.
 
-## Wichtiger Hinweis
-
+Wichtiger Hinweis
 Cycle Multi Tool ist kein medizinischer Rat und kein medizinisches Gerät. Es ersetzt keine medizinische Untersuchung, Laborinterpretation oder Behandlung. Alle Werte sind Dokumentations- und Plausibilitätswerte und müssen eigenverantwortlich geprüft werden.
 
-## Rechtlicher und medizinischer Hinweis
-
+Rechtlicher und medizinischer Hinweis
 Cycle Multi Tool dient ausschließlich der privaten Dokumentation, Berechnung, Plausibilitätsprüfung und übersichtlichen Darstellung eigener Daten.
 
 Das Programm gibt keine medizinischen Empfehlungen, keine Behandlungsanweisungen, keine Dosierungsempfehlungen und keine Anwendungsempfehlungen. Es fordert nicht zur Einnahme, Beschaffung oder Anwendung von verschreibungspflichtigen, verbotenen oder leistungssteigernden Substanzen auf.
@@ -58,16 +52,16 @@ Die Nutzung erfolgt eigenverantwortlich. Medizinische Fragen, Laborwerte, gesund
 
 Cycle Multi Tool speichert und verarbeitet Daten lokal auf dem eigenen Gerät. Die öffentliche Veröffentlichung enthält keinen Quellcode, keine Datenbanken, keine Backups und keine personenbezogenen Nutzerdaten.
 
-## English
-
+English
 Cycle Multi Tool is a local Windows desktop application for planning, documenting, and comparing personal data. It combines profiles, lab values, body and strength values, cycle planning, calculators, and charts in one place.
 
-The current public version is available on the [Releases page](https://github.com/cyclemultitool/CycleMultiTool/releases/latest).
+The current public version is available on the Releases page.
+
+Update 1.0.1 adds full persistence for BMI/body-fat calculator inputs and a new ED calculator that converts injection dose and interval into mg/week.
 
 This repository contains the public release package only. No source code, databases, backups, or personal data are included.
 
-## Legal and Medical Notice
-
+Legal and Medical Notice
 Cycle Multi Tool is intended solely for private documentation, calculation, plausibility checking, and structured visualization of personal data.
 
 The program does not provide medical advice, treatment instructions, dosage recommendations, or usage recommendations. It does not encourage the use, purchase, acquisition, or application of prescription-only, prohibited, or performance-enhancing substances.
