@@ -6,7 +6,7 @@ Cycle Multi Tool ist eine lokale Windows-Desktop-Anwendung zum Planen, Dokumenti
 
 Die aktuelle öffentliche Version steht auf der Releases-Seite bereit:
 
-[Cycle Multi Tool herunterladen](https://github.com/cyclemultitool/CycleMultiTool/releases/latest)
+[CycleMultiTool herunterladen](https://github.com/cyclemultitool/CycleMultiTool/releases/latest)
 
 Aktuelles Update: `1.0.1` als Win32-Paket mit KFA-Speicherung und Rechner-Erweiterung.
 
