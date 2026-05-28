@@ -91,4 +91,4 @@ All calculations, charts, estimates, and assessments are technical documentation
 
 Use of the software is at the user's own responsibility. Medical questions, lab values, health symptoms, and decisions about medication or substances should be handled by qualified medical professionals.
 
-Cycle Multi Tool stores and processes data locally on the user's own device. The public release does not include source code, databases, backups, or personal user data.
+CycleMultiTool stores and processes data locally on the user's own device. The public release does not include source code, databases, backups, or personal user data.
