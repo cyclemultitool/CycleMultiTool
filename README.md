@@ -8,7 +8,7 @@ Die aktuelle öffentliche Version steht auf der Releases-Seite bereit:
 
 [CycleMultiTool herunterladen](https://github.com/cyclemultitool/CycleMultiTool/releases/latest)
 
-Aktuelles Update: `1.0.1` als Win32-Paket mit KFA-Speicherung und Rechner-Erweiterung.
+Aktuelles Update: `1.0.1` als Win32- und Win64-Paket mit KFA-Speicherung und Rechner-Erweiterung.
 
 ## Update 1.0.1
 
@@ -45,11 +45,13 @@ Aktuelles Update: `1.0.1` als Win32-Paket mit KFA-Speicherung und Rechner-Erweit
 
 ## Inhalt der Veröffentlichung
 
+Die Veröffentlichung enthält:
+
 - Windows-EXE
-- deutsche und englische README
-- deutsche und englische Haftungsausschlüsse
-- deutscher und englischer Datenschutzhinweis
-- deutscher und englischer Changelog
+- deutsche und englische README-Dateien
+- Release-Informationen
+
+Haftungs-, Datenschutz- und Changelog-Hinweise sind in den README-Dateien enthalten.
 
 ## Kein Quellcode
 
@@ -57,7 +59,7 @@ Dieses Repository veröffentlicht nur das fertige Programm als Download. Quellco
 
 ## Wichtiger Hinweis
 
-CycleMultiTool ist kein medizinischer Rat und kein medizinisches Gerät. Es ersetzt keine medizinische Untersuchung, Laborinterpretation oder Behandlung. Alle Werte sind Dokumentations- und Plausibilitätswerte und müssen eigenverantwortlich geprüft werden.
+CycleMultiTool bietet keinen medizinischen Rat und ist kein medizinisches Gerät. Es ersetzt keine medizinische Untersuchung, Laborinterpretation oder Behandlung. Alle Werte sind Dokumentations- und Plausibilitätswerte und müssen eigenverantwortlich geprüft werden.
 
 ## Rechtlicher und medizinischer Hinweis
 
@@ -78,6 +80,8 @@ CycleMultiTool is a local Windows desktop application for planning, documenting,
 The current public version is available on the [Releases page](https://github.com/cyclemultitool/CycleMultiTool/releases/latest).
 
 Update `1.0.1` adds full persistence for BMI/body-fat calculator inputs and a new ED calculator that converts injection dose and interval into mg/week.
+
+The release contains the Windows executable, German and English README files, and release information. Legal, privacy, and changelog notes are included in the README files.
 
 This repository contains the public release package only. No source code, databases, backups, or personal data are included.
 
