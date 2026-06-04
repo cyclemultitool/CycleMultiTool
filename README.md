@@ -8,18 +8,15 @@ Die aktuelle öffentliche Version steht auf der Releases-Seite bereit:
 
 [CycleMultiTool herunterladen](https://github.com/cyclemultitool/CycleMultiTool/releases/latest)
 
-Aktuelles Update: `1.0.1` als Win32- und Win64-Paket mit KFA-Speicherung und Rechner-Erweiterung.
+Aktuelles Update: `1.0.2` mit erweiterten Laborwerten für Harnsäure, ApoB/ApoA1 und HOMA-IR.
 
-## Update 1.0.1
+## Update 1.0.2
 
-- KFA-Rechner speichern ihre Eingaben jetzt vollständig.
-- 3-Falten-Methode: Alter, Brust, Bauch und Oberschenkel.
-- 6-Falten-Methode: Alter, Brust, Bauch, Oberschenkel, Rücken, Hüfte und Oberarm/Achsel.
-- Navy-Methode: Größe, Hals und Bauch.
-- BMI-Rechner: Größe und Gewicht.
-- Neuer ED-Rechner unter `Rechner`.
-- Der ED-Rechner berechnet `mg pro Injektion x 7 / Intervalltage = mg/Woche`.
-- Intervall-Auswahl von `ED1` bis `ED10`.
+- Laborwerte um Harnsäure mg/dl erweitert.
+- Lipid-/Risikoansicht um ApoB, ApoA1 und ApoB/ApoA1-Quotient erweitert.
+- HOMA-IR wird aus Nüchtern-Glukose und Nüchtern-Insulin berechnet.
+- HOMA-IR-Hinweis mit grober Orientierung ergänzt: `<1` sehr gut, `1-2` meist unauffällig, `2-2,5` Graubereich, `>2,5` erhöht.
+- Bestehende Profildatenbanken werden beim Start um die neuen Labor-Snapshot-Spalten migriert.
 
 ## Screenshots
 
@@ -79,11 +76,11 @@ CycleMultiTool is a local Windows desktop application for planning, documenting,
 
 The current public version is available on the [Releases page](https://github.com/cyclemultitool/CycleMultiTool/releases/latest).
 
-Update `1.0.1` adds full persistence for BMI/body-fat calculator inputs and a new ED calculator that converts injection dose and interval into mg/week.
+Update `1.0.2` adds uric acid, ApoB, ApoA1, the ApoB/ApoA1 ratio, and calculated HOMA-IR with an orientation note to the lab/profile overview.
 
 The release contains the Windows executable, German and English README files, and release information. Legal, privacy, and changelog notes are included in the README files.
 
-This repository contains the public release package only. No source code, databases, backups, or personal data are included.
+This repository contains the public release package only. No source code, databases, backups, exports, profile data, or personal user data are included.
 
 ## Legal and Medical Notice
 
@@ -95,4 +92,4 @@ All calculations, charts, estimates, and assessments are technical documentation
 
 Use of the software is at the user's own responsibility. Medical questions, lab values, health symptoms, and decisions about medication or substances should be handled by qualified medical professionals.
 
-CycleMultiTool stores and processes data locally on the user's own device. The public release does not include source code, databases, backups, or personal user data.
+CycleMultiTool stores and processes data locally on the user's own device. The public release does not include source code, databases, backups, exports, profile data, or personal user data.
